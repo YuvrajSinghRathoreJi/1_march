@@ -1,0 +1,18 @@
+#include <stdio.h>
+
+int main()
+{
+    float a=3.456;
+    printf("%f\n",a);
+    int b=-678;
+    printf("%d\n",b);
+    char c='E';
+    printf("%c\n",c);
+    int d=1234;
+    printf("%d\n",d);
+    float e=-123.56;
+    printf("%f\n",e);
+    char f='P';
+    printf("%c\n",f);
+    return 0;
+}
